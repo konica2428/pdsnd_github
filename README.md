@@ -1,15 +1,23 @@
 ### Date created
-Include the date you created this project and README file.
+August 15th 2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The purpose of this project is to explore the bikeshare data of Chicago, Washington and New York City filtered by Month and day of the week.The results of the code computed the below statistics:
+* Popular month, day, and hour of the day to travel.
+* Popular Start, End and combination of start and End Station trips.
+* Total and Average Travel Time
+* Details of users- count, Gender and Year of Birth.
+* Data for the individual trip for the selected City.
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+(n.d.). Retrieved August 03, 2020, from https://www.w3schools.com/python/python_functions.asp
+9.7. statistics - Mathematical statistics functions∂. (n.d.). Retrieved August 03, 2020, from https://docs.python.org/3.4/library/statistics.html
+The Python Tutorial∂. (n.d.). Retrieved August 03, 2020, from https://docs.python.org/3/tutorial/index.html

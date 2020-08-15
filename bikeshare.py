@@ -210,6 +210,7 @@ def user_stats(df):
 
     else:
         print('Sorry, no gender data is available for this city.')
+        print('Chicago and New York City has Gender Data available.')
 
 
     # TO DO: Display earliest, most recent, and most common year of birth

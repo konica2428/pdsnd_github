@@ -210,7 +210,8 @@ def user_stats(df):
         print('Sorry, no gender data is available for this city.')
 
 
-    # TO DO: Display earliest, most recent, and most common year of birth
+    # TO DO: Display earliest, most recent, and most common year of birth.
+    # The result will be in the form of years.
 
     if 'Birth Year' not in df:
         print('The data related to the birth year is not available for this city.')

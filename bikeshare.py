@@ -52,7 +52,7 @@ def get_filters():
         day=input("For which day of the week would you like to access the data? If there is no preference, provide 'all' as an input\n")
         day=day.lower()
         if day not in DAY_LIST:
-            print("Please enter a valid day of the week.")
+            print("Please enter a valid day of the week to get the results.")
             continue
         else:
             break

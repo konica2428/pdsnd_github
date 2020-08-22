@@ -1,6 +1,9 @@
 ### Date created
 August 15th 2020
 
+### Date updated
+August 21st 2020
+
 ### Project Title
 Explore US Bikeshare Data
 
@@ -8,7 +11,7 @@ Explore US Bikeshare Data
 The purpose of this project is to explore the bikeshare data of Chicago, Washington and New York City filtered by Month and day of the week.The results of the code computed the below statistics:
 * Popular month, day, and hour of the day to travel.
 * Popular Start, End and combination of start and End Station trips.
-* Total and Average Travel Time
+* Total and Average Travel Time.
 * Details of users- count, Gender and Year of Birth.
 * Data for the individual trip for the selected City.
 
